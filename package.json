@@ -1,0 +1,20 @@
+{
+    "dependencies": {},
+    "description": "Driver for ID Innovations ID-20LA RFID reader",
+    "fullname": "lib.idinnovations.id20la",
+    "git_pointer": "zerynth://zerynth-libs/idinnovations-id20la",
+    "info": {
+        "chip_manufacturer": "ID Innovations",
+        "chip_name": "ID20LA",
+        "name": "RFID reader",
+        "type": "Sensor"
+    },
+    "keywords": [
+        "rfid",
+        "idinnovations"
+    ],
+    "repo": "official",
+    "title": "ID20LA RFID reader",
+    "version": "r2.2.0",
+    "whatsnew": "First Release"
+}
