@@ -1,0 +1,13 @@
+---
+description: Driver for ID Innovations ID-20LA RFID reader
+fullname: lib.idinnovations.id20la
+info:
+    chip_manufacturer: ID Innovations
+    chip_name: ID20LA
+    name: RFID reader
+    type: Sensor
+keywords:
+- rfid
+- idinnovations
+title: ID20LA RFID reader
+...
